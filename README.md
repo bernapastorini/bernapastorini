@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Adalove](http://www.adalove.com.ar)
 
-- 👨‍💻 Info about my projects are available at [www.bernapastorini.com](www.bernapastorini.com)
+- 👨‍💻 Info about my projects is available at [www.bernapastorini.com](www.bernapastorini.com)
 
 - 📫 How to reach me **bernardo@bernapastorini.com**
 
