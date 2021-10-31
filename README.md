@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Adalove](http://www.adalove.com.ar), as fullstack developer.
 
-- 👨‍💻 Info about my projects is available at [https://bernapastorini.com](bernapastorini.com)
+- 👨‍💻 Info about my projects is available at [bernapastorini.com](https://bernapastorini.com).
 
 - 📫 How to reach me **bernardo@bernapastorini.com**
 
