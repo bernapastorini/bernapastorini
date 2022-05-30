@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bernardo Pastorini</h1>
-<h3 align="center">A junior fullstack developer from Argentina</h3>
+<h3 align="center">A fullstack developer & DevOps from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernapastorini&label=Profile%20views&color=0e75b6&style=flat" alt="bernapastorini" /> </p>
 
-- 🔭 I’m currently working at [Adalove](http://www.adalove.com.ar), as fullstack developer.
+- 🔭 I’m currently working at [Adalove](http://www.adalove.com.ar), as fullstack developer & DevOps, since July 2021.
 
 - 👨‍💻 Info about my projects is available at [bernapastorini.com](https://bernapastorini.com).
 
