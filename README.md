@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernapastorini&label=Profile%20views&color=0e75b6&style=flat" alt="bernapastorini" /> </p>
 
-- 🔭 I’m currently working at [Adalove](http://www.adalove.com.ar), as fullstack developer & DevOps, since July 2021.
+- 🔭 I’m currently working at [Adalove](http://www.adalove.com.ar), as Solutions Engineer, since July 2021.
 
 - 👨‍💻 Info about my projects is available at [bernapastorini.com](https://bernapastorini.com).
 
